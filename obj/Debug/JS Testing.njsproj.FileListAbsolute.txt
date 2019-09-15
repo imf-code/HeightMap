@@ -1,0 +1,3 @@
+C:\Users\Kele\Documents\BootCamp\JavaScript\JS Testing\obj\Debug\JS Testing.njsprojAssemblyReference.cache
+C:\Users\Kele\Documents\BootCamp\JavaScript\JS Testing\obj\Debug\JS Testing.njsproj.CoreCompileInputs.cache
+C:\Users\Kele\Documents\BootCamp\JavaScript\JS Testing\bin\Microsoft.NodejsTools.WebRole.dll
