@@ -63,7 +63,7 @@ function DoIt() {
     }
     console.log("Done.");
 
-
+    /*
     //Make canvas
     console.log("Creating canvas...");
     var mapCanvas = document.getElementById("mapPicture");
@@ -73,6 +73,7 @@ function DoIt() {
 
     console.log("Done.");
     PrintIt();
+    */
 }
 
 function PrintIt() {

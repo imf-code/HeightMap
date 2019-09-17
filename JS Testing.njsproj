@@ -33,6 +33,7 @@
     <Content Include="main.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="Testing.js" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
 </Project>
