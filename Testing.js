@@ -139,7 +139,7 @@ function DoIt() {
     //PrintIt();
 }
 
-/*
+/*Print into console
 function PrintIt() {
     //Print an array to console
     var targetVar = mapArray;
